@@ -1,0 +1,566 @@
+[19-Aug-2018 12:21:22 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/anomozco/game.anomoz.com/models/Post.php on line 32
+[19-Aug-2018 12:21:28 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/anomozco/game.anomoz.com/models/Post.php on line 32
+[19-Aug-2018 12:22:08 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/anomozco/game.anomoz.com/models/Post.php on line 32
+[19-Aug-2018 12:24:08 UTC] PHP Fatal error:  Call to a member function prepare() on null in /home/anomozco/game.anomoz.com/models/Post.php on line 32
+[19-Aug-2018 13:32:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/anomozco/game.anomoz.com/models/appPost.php:71
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(71): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(27): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 71
+[19-Aug-2018 13:32:39 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/anomozco/game.anomoz.com/models/appPost.php:71
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(71): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(27): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 71
+[19-Aug-2018 13:32:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/anomozco/game.anomoz.com/models/appPost.php:71
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(71): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(27): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 71
+[19-Aug-2018 13:33:53 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/anomozco/game.anomoz.com/models/appPost.php:71
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(71): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(27): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 71
+[19-Aug-2018 13:35:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/anomozco/game.anomoz.com/models/appPost.php:71
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(71): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(27): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 71
+[19-Aug-2018 13:35:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/anomozco/game.anomoz.com/models/appPost.php:71
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(71): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(27): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 71
+[19-Aug-2018 13:40:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(27): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:40:30 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(27): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:41:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(27): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:43:04 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(43): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:43:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(43): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:44:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:45:05 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:45:28 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:45:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:45:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:49:06 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:49:24 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:49:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:49:29 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:49:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:49:34 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:49:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:49:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:49:48 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:49:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:52:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:53:31 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(27): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:53:44 UTC] PHP Warning:  include_once(../../models/mPost.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/user_create.php on line 9
+[19-Aug-2018 13:53:44 UTC] PHP Warning:  include_once(): Failed opening '../../models/mPost.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/user_create.php on line 9
+[19-Aug-2018 13:53:44 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/user_create.php on line 16
+[19-Aug-2018 13:55:42 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:56:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:79
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(79): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 79
+[19-Aug-2018 13:58:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:80
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(80): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 80
+[19-Aug-2018 14:57:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:81
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(81): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 81
+[19-Aug-2018 14:58:19 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:83
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(83): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 83
+[19-Aug-2018 15:19:22 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:83
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(83): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 83
+[19-Aug-2018 15:30:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:83
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(83): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 83
+[19-Aug-2018 15:33:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:91
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(91): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 91
+[19-Aug-2018 15:33:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'titlea' in 'field list'' in /home/anomozco/game.anomoz.com/models/appPost.php:91
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(91): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 91
+[19-Aug-2018 15:33:38 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/anomozco/game.anomoz.com/models/appPost.php:91
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(91): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 91
+[19-Aug-2018 15:33:49 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:91
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(91): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 91
+[19-Aug-2018 15:35:12 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:83
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(83): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 83
+[19-Aug-2018 17:28:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1' in /home/anomozco/game.anomoz.com/models/Post.php:91
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/Post.php(91): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/create.php(27): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/Post.php on line 91
+[19-Aug-2018 17:30:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:81
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(81): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 81
+[19-Aug-2018 17:31:20 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:81
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(81): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 81
+[19-Aug-2018 17:31:21 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1110 Column 'points' specified twice' in /home/anomozco/game.anomoz.com/models/appPost.php:81
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(81): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_create.php(32): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 81
+[19-Aug-2018 17:58:01 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:123
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(123): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_update.php(34): Post->update()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 123
+[19-Aug-2018 18:00:36 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list'' in /home/anomozco/game.anomoz.com/models/appPost.php:117
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(117): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_update.php(34): Post->update()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 117
+[19-Aug-2018 18:00:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1' in /home/anomozco/game.anomoz.com/models/appPost.php:116
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(116): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_update.php(34): Post->update()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 116
+[19-Aug-2018 18:01:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1' in /home/anomozco/game.anomoz.com/models/appPost.php:105
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(105): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_update.php(34): Post->update()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 105
+[19-Aug-2018 18:01:40 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'title' in 'field list'' in /home/anomozco/game.anomoz.com/models/appPost.php:117
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(117): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/user_update.php(34): Post->update()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 117
+[19-Aug-2018 18:02:35 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1' in /home/anomozco/game.anomoz.com/models/Post.php:125
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/Post.php(125): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/update.php(30): Post->update()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/Post.php on line 125
+[20-Aug-2018 14:38:44 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/productTokens_read.php on line 7
+[20-Aug-2018 14:38:44 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/productTokens_read.php on line 7
+[20-Aug-2018 14:38:44 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/productTokens_read.php on line 14
+[20-Aug-2018 14:38:58 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/read_single.php on line 7
+[20-Aug-2018 14:38:58 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/read_single.php on line 7
+[20-Aug-2018 14:38:58 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/read_single.php on line 14
+[20-Aug-2018 14:39:01 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/productTokens_read.php on line 7
+[20-Aug-2018 14:39:01 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/productTokens_read.php on line 7
+[20-Aug-2018 14:39:01 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/productTokens_read.php on line 14
+[20-Aug-2018 14:43:16 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/read_single.php on line 7
+[20-Aug-2018 14:43:16 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/read_single.php on line 7
+[20-Aug-2018 14:43:16 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/read_single.php on line 14
+[20-Aug-2018 14:54:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'token' in 'field list'' in /home/anomozco/game.anomoz.com/models/appPost.php:175
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(175): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_read.php(17): Post->read_single_token()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 175
+[20-Aug-2018 14:55:15 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'token' in 'field list'' in /home/anomozco/game.anomoz.com/models/appPost.php:177
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(177): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_read.php(17): Post->read_single_token()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 177
+[20-Aug-2018 14:56:11 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'order clause'' in /home/anomozco/game.anomoz.com/models/appPost.php:177
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(177): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_read.php(17): Post->read_single_token()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 177
+[20-Aug-2018 14:56:33 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'order clause'' in /home/anomozco/game.anomoz.com/models/appPost.php:177
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(177): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_read.php(17): Post->read_single_token()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 177
+[20-Aug-2018 14:57:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'token' in 'field list'' in /home/anomozco/game.anomoz.com/models/appPost.php:177
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(177): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_read.php(17): Post->read_single_token()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 177
+[20-Aug-2018 14:58:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'token' in 'field list'' in /home/anomozco/game.anomoz.com/models/appPost.php:177
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(177): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_read.php(17): Post->read_single_token()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 177
+[20-Aug-2018 14:59:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'order clause'' in /home/anomozco/game.anomoz.com/models/appPost.php:177
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(177): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_read.php(17): Post->read_single_token()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 177
+[20-Aug-2018 15:01:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'id' in 'order clause'' in /home/anomozco/game.anomoz.com/models/appPost.php:178
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(178): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_read.php(17): Post->read_single_token()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 178
+[20-Aug-2018 15:10:25 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:163
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(163): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_update.php(28): Post->updateTokenisUsed()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 163
+[20-Aug-2018 15:13:07 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:163
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(163): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_update.php(28): Post->updateTokenisUsed()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 163
+[20-Aug-2018 15:13:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:163
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(163): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_update.php(28): Post->updateTokenisUsed()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 163
+[20-Aug-2018 15:15:58 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:159
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(159): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_update.php(28): Post->updateTokenisUsed()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 159
+[20-Aug-2018 15:18:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:159
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(159): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_update.php(28): Post->updateTokenisUsed()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 159
+[20-Aug-2018 15:18:57 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty' in /home/anomozco/game.anomoz.com/models/appPost.php:157
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(157): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_update.php(28): Post->updateTokenisUsed()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 157
+[20-Aug-2018 15:19:52 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:157
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(157): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_update.php(28): Post->updateTokenisUsed()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 157
+[20-Aug-2018 15:20:10 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:157
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(157): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_update.php(28): Post->updateTokenisUsed()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 157
+[20-Aug-2018 15:21:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'WHERE token = ''' at line 4' in /home/anomozco/game.anomoz.com/models/appPost.php:160
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(160): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_update.php(28): Post->updateTokenisUsed()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 160
+[20-Aug-2018 15:23:27 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:161
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(161): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_update.php(28): Post->updateTokenisUsed()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 161
+[21-Aug-2018 16:39:45 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/productTokens_update.php on line 7
+[21-Aug-2018 16:39:45 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/productTokens_update.php on line 7
+[21-Aug-2018 16:39:45 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/productTokens_update.php on line 14
+[21-Aug-2018 16:40:28 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/productTokens_update.php on line 7
+[21-Aug-2018 16:40:28 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/productTokens_update.php on line 7
+[21-Aug-2018 16:40:28 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/productTokens_update.php on line 14
+[21-Aug-2018 16:41:17 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/productTokens_update.php on line 7
+[21-Aug-2018 16:41:17 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/productTokens_update.php on line 7
+[21-Aug-2018 16:41:17 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/productTokens_update.php on line 14
+[21-Aug-2018 16:54:59 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S22]: Column not found: 1054 Unknown column 'p.category_id' in 'field list'' in /home/anomozco/game.anomoz.com/models/appPost.php:187
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(187): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_update.php(20): Post->updateTokenisUsed()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 187
+[21-Aug-2018 16:56:55 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: parameter was not defined' in /home/anomozco/game.anomoz.com/models/appPost.php:187
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(187): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_update.php(20): Post->updateTokenisUsed()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 187
+[31-Aug-2018 05:21:13 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'anomozco_chat.infoappUsers' doesn't exist' in /home/anomozco/game.anomoz.com/models/infoappPost.php:52
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/infoappPost.php(52): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/data_create.php(25): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/infoappPost.php on line 52
+[31-Aug-2018 05:21:44 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'anomozco_chat.infoappUsers' doesn't exist' in /home/anomozco/game.anomoz.com/models/infoappPost.php:52
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/infoappPost.php(52): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/data_create.php(25): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/infoappPost.php on line 52
+[31-Aug-2018 05:22:16 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'anomozco_chat.infoServers' doesn't exist' in /home/anomozco/game.anomoz.com/models/infoappPost.php:52
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/infoappPost.php(52): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/data_create.php(25): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/infoappPost.php on line 52
+[31-Aug-2018 05:22:23 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'anomozco_chat.infoServers' doesn't exist' in /home/anomozco/game.anomoz.com/models/infoappPost.php:52
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/infoappPost.php(52): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/data_create.php(24): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/infoappPost.php on line 52
+[31-Aug-2018 05:22:26 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[42S02]: Base table or view not found: 1146 Table 'anomozco_chat.infoServers' doesn't exist' in /home/anomozco/game.anomoz.com/models/infoappPost.php:52
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/infoappPost.php(52): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/data_create.php(24): Post->create()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/infoappPost.php on line 52
+[01-Sep-2018 04:56:25 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/create.php on line 9
+[01-Sep-2018 04:56:25 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/create.php on line 9
+[01-Sep-2018 04:56:25 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/create.php on line 16
+[01-Sep-2018 05:25:06 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/update.php on line 9
+[01-Sep-2018 05:25:06 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/update.php on line 9
+[01-Sep-2018 05:25:06 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/update.php on line 16
+[01-Sep-2018 07:42:43 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/read.php on line 7
+[01-Sep-2018 07:42:43 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/read.php on line 7
+[01-Sep-2018 07:42:43 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/read.php on line 14
+[01-Sep-2018 07:53:38 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/read_single.php on line 7
+[01-Sep-2018 07:53:38 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/read_single.php on line 7
+[01-Sep-2018 07:53:38 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/read_single.php on line 14
+[01-Sep-2018 08:28:12 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/delete.php on line 9
+[01-Sep-2018 08:28:12 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/delete.php on line 9
+[01-Sep-2018 08:28:12 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/delete.php on line 16
+[01-Sep-2018 12:16:56 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:161
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(161): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_update.php(28): Post->updateTokenisUsed()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 161
+[04-Sep-2018 06:21:38 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 3
+[04-Sep-2018 06:21:38 UTC] PHP Warning:  require(vendor/autoload.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 3
+[04-Sep-2018 06:21:38 UTC] PHP Fatal error:  require(): Failed opening required 'vendor/autoload.php' (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 3
+[04-Sep-2018 06:23:28 UTC] PHP Fatal error:  Class 'Dotenv' not found in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 3
+[04-Sep-2018 06:33:07 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 06:35:30 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 06:35:57 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 06:36:57 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 06:48:06 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 06:51:16 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 06:51:43 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 06:51:49 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 06:52:14 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 06:52:43 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 06:52:49 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 06:53:43 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 06:53:59 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 06:55:18 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 06:56:17 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 06:57:47 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 07:00:20 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 07:00:48 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 07:01:48 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 07:03:12 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 07:05:37 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 07:19:39 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 07:23:39 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 07:25:48 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 07:31:10 UTC] PHP Warning:  file_get_contents(https://game.anomoz.com/api/post/place_order.php): failed to open stream: HTTP request failed!  in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 15
+[04-Sep-2018 07:31:10 UTC] PHP Warning:  file_get_contents(https://game.anomoz.com/api/post/place_order.php): failed to open stream: HTTP request failed!  in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 15
+[04-Sep-2018 07:31:10 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[04-Sep-2018 07:31:10 UTC] PHP Warning:  file_get_contents(https://game.anomoz.com/api/post/place_order.php): failed to open stream: HTTP request failed!  in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 15
+[04-Sep-2018 07:31:10 UTC] PHP Warning:  file_get_contents(https://game.anomoz.com/api/post/place_order.php): failed to open stream: HTTP request failed!  in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 15
+[04-Sep-2018 07:31:10 UTC] PHP Warning:  file_get_contents(https://game.anomoz.com/api/post/place_order.php): failed to open stream: HTTP request failed!  in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 15
+[04-Sep-2018 07:31:10 UTC] PHP Warning:  file_get_contents(https://game.anomoz.com/api/post/place_order.php): failed to open stream: HTTP request failed!  in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 15
+[04-Sep-2018 07:31:10 UTC] PHP Warning:  file_get_contents(https://game.anomoz.com/api/post/place_order.php): failed to open stream: HTTP request failed!  in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 15
+[04-Sep-2018 07:31:10 UTC] PHP Warning:  file_get_contents(https://game.anomoz.com/api/post/place_order.php): failed to open stream: HTTP request failed!  in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 15
+[04-Sep-2018 07:31:10 UTC] PHP Warning:  file_get_contents(https://game.anomoz.com/api/post/place_order.php): failed to open stream: HTTP request failed!  in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 15
+[04-Sep-2018 07:31:10 UTC] PHP Warning:  file_get_contents(https://game.anomoz.com/api/post/place_order.php): failed to open stream: HTTP request failed!  in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 15
+[04-Sep-2018 07:31:10 UTC] PHP Warning:  file_get_contents(https://game.anomoz.com/api/post/place_order.php): failed to open stream: HTTP request failed!  in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 15
+[04-Sep-2018 07:31:10 UTC] PHP Warning:  file_get_contents(https://game.anomoz.com/api/post/place_order.php): failed to open stream: HTTP request failed!  in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 15
+[04-Sep-2018 07:31:10 UTC] PHP Warning:  file_get_contents(https://game.anomoz.com/api/post/place_order.php): failed to open stream: HTTP request failed!  in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 15
+[04-Sep-2018 07:31:10 UTC] PHP Warning:  file_get_contents(https://game.anomoz.com/api/post/place_order.php): failed to open stream: HTTP request failed!  in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 15
+[04-Sep-2018 07:31:10 UTC] PHP Warning:  file_get_contents(https://game.anomoz.com/api/post/place_order.php): failed to open stream: HTTP request failed!  in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 15
+[07-Sep-2018 03:55:05 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[23-Sep-2018 04:08:33 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/read.php on line 7
+[23-Sep-2018 04:08:33 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/read.php on line 7
+[23-Sep-2018 04:08:33 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/read.php on line 14
+[24-Sep-2018 22:04:20 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/create.php on line 9
+[24-Sep-2018 22:04:20 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/create.php on line 9
+[24-Sep-2018 22:04:20 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/create.php on line 16
+[25-Sep-2018 02:53:01 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/delete.php on line 9
+[25-Sep-2018 02:53:01 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/delete.php on line 9
+[25-Sep-2018 02:53:01 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/delete.php on line 16
+[25-Sep-2018 04:24:56 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/update.php on line 9
+[25-Sep-2018 04:24:56 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/update.php on line 9
+[25-Sep-2018 04:24:56 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/update.php on line 16
+[15-Oct-2018 05:54:22 UTC] PHP Warning:  include_once(../../models/Post.php): failed to open stream: No such file or directory in /home/anomozco/game.anomoz.com/api/post/read_single.php on line 7
+[15-Oct-2018 05:54:22 UTC] PHP Warning:  include_once(): Failed opening '../../models/Post.php' for inclusion (include_path='.:/opt/cpanel/ea-php56/root/usr/share/pear') in /home/anomozco/game.anomoz.com/api/post/read_single.php on line 7
+[15-Oct-2018 05:54:22 UTC] PHP Fatal error:  Class 'Post' not found in /home/anomozco/game.anomoz.com/api/post/read_single.php on line 14
+[15-Oct-2018 09:31:31 UTC] PHP Warning:  Creating default object from empty value in /home/anomozco/game.anomoz.com/api/post/place_order.php on line 12
+[24-Oct-2018 14:38:02 UTC] PHP Fatal error:  Uncaught exception 'PDOException' with message 'SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens' in /home/anomozco/game.anomoz.com/models/appPost.php:161
+Stack trace:
+#0 /home/anomozco/game.anomoz.com/models/appPost.php(161): PDOStatement->execute()
+#1 /home/anomozco/game.anomoz.com/api/post/productTokens_update.php(28): Post->updateTokenisUsed()
+#2 {main}
+  thrown in /home/anomozco/game.anomoz.com/models/appPost.php on line 161
